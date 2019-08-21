@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BenSchmidt.Tech</title>
+    <link>http://benschmidt.tech/</link>
+    <description>Recent content on BenSchmidt.Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Aug 2019 00:27:19 -0600</lastBuildDate>
+    
+	<atom:link href="http://benschmidt.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome - First Post</title>
+      <link>http://benschmidt.tech/posts/first_post/</link>
+      <pubDate>Wed, 21 Aug 2019 00:27:19 -0600</pubDate>
+      
+      <guid>http://benschmidt.tech/posts/first_post/</guid>
+      <description>Hello, this is my first post here on BenSchmidt.Tech. I will be using this space for vaguely tech related blogging.
+More coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
